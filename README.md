@@ -11,3 +11,7 @@ Books
 
 * https://leanpub.com/regmods
       * https://leanpub.com/LittleInferenceBook
+
+Surveys
+
+* https://www.oreilly.com/ideas/2015-data-science-salary-survey, [pdf](https://duu86o6n09pv.cloudfront.net/reports/2015-data-science-salary-survey.pdf)
