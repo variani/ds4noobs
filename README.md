@@ -10,3 +10,4 @@ Persons
 Books
 
 * https://leanpub.com/regmods
+      * https://leanpub.com/LittleInferenceBook
