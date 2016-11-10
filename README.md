@@ -15,3 +15,7 @@ Books
 Surveys
 
 * https://www.oreilly.com/ideas/2015-data-science-salary-survey, [pdf](https://duu86o6n09pv.cloudfront.net/reports/2015-data-science-salary-survey.pdf)
+
+Resources 
+
+* http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles
